@@ -8,7 +8,7 @@
 <pre>
     💼 Dream: Go to MIT & get a CS degree.🥹✌️
     💻 Linux, HTML/CSS, and Python. 
-    📖 Operating systems, Application and Web Dev.
+    📖 Operating Systems, Hardware Design, Application and Web Dev.
     🎮 Music • Minecraft • Animation • Tech • Art
 </pre>
 <br><br>

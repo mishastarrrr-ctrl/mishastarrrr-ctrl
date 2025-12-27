@@ -6,20 +6,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey!+;I'm+Misha%2C+a+techie+and+musician+wannabe+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    💼 Dream: Go to MIT & get a CS degree.🥹✌️
+    💻 Linux, HTML/CSS, and Python. 
+    📖 Operating systems, Application and Web Dev.
+    🎮 Music • Minecraft • Animation • Tech • Art
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/youtube-ff0000)](https://www.youtube.com/@misha.starrr)
+[![](https://img.shields.io/badge/discord-551a8b)](https://discord.gg/MS9cu4d8)
+[![](https://img.shields.io/badge/minecraft-00ff00)](https://namemc.com/profile/Milk_Aisle.1)
+[![](https://img.shields.io/badge/spotify-00ff00)](https://open.spotify.com/user/31clpw4w7fhsv5eh5h273gt6utgq?si=8fae178f0e904373)
 </div>
 
 Non-binary!

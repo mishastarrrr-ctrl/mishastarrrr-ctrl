@@ -23,3 +23,5 @@
 Non-binary!
 Musician
 Aand... *drum roll* techie!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mishastarrrr-ctrl&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
